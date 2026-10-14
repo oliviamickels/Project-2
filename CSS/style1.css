@@ -16,7 +16,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #33FF33;
 }
 
 ul li {
@@ -33,6 +33,9 @@ ul li a {
 
 ul li a:hover {
   background-color: #111111;
+}
+ul li a.active {
+  background-color: #04AA6D;
 }
 </style>
 </head>
